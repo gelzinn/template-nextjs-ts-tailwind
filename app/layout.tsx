@@ -4,7 +4,7 @@ export default function RootLayout({ children }: any) {
   return (
     <html lang="pt-BR">
       <head>
-        <title>Loopscape — A Software House</title>
+        <title>Next.js 13 Template - @gelzinn</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         <link rel="shortcut icon" href="/loopscape-logo.svg" type="image/x-icon" />
