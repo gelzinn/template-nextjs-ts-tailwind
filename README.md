@@ -96,23 +96,6 @@ Other resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)!
 
-## Credits
-
-Technologies
-
-- [Next.js](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
-Tools
-
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-
-Hosting
-
-- [Vercel](https://vercel.com/)
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
