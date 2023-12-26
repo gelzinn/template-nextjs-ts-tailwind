@@ -1,30 +1,61 @@
-<center>
+<div align="center">
 
 # Next.js 13, Typescript and Tailwind CSS
 
 This is a template for [Next.js](https://nextjs.org/) 13, [Typescript](https://www.typescriptlang.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
-Created by developer for developers. This template is ready to use and has a lot of features. You can use it for your projects.
+<p align="center">
+  <a aria-label="NPM version" href="https://www.npmjs.com/package/next">
+    <img alt="" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000">
+  </a>
+  <a aria-label="License" href="https://github.com/gelzinn/template-nextjs-ts-tailwind/blob/main/LICENSE.md">
+    <img alt="" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
+  </a>
+</p>
 
-</center>
+</div>
 
 ## Getting Started
 
-First, run the development server:
+First, you need to clone this repository:
 
 ```bash
-npm run dev
+git clone https://github.com/gelzinn/template-nextjs-ts-tailwind.git
 ```
 
-or
+After that, you need to install dependencies using your favorite package manager:
 
 ```bash
+pnpm install
+
+# or
+
+npm install
+
+# or
+
+yarn install
+```
+
+Then, you can start development server:
+
+```bash
+pnpm dev
+
+# or
+
+npm run dev
+
+# or
+
 yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 After that, you can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+> By default, this template uses [pnpm](https://pnpm.io/) as a package manager. If you want to use another package manager, you can remove `pnpm-lock.yaml` file and install dependencies using your favorite package manager.
 
 ### Commands
 
