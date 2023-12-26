@@ -1,11 +1,18 @@
 {
+  "name": "template-nextjs-ts-tailwind",
+  "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "gelzin",
+    "url": "https://gelzin.com/"
+  },
+  "description": "A template for Next.js with TypeScript and Tailwind CSS",
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --fix",
-    "format": "prettier --write \"**/*.{js,ts,tsx,md}\""
+    "preview": "next build && next start",
+    "lint": "next lint --fix"
   },
   "prettier": {
     "arrowParens": "always",
