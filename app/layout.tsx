@@ -11,10 +11,10 @@ export default function RootLayout({ children }: any) {
       </head>
 
       <body>
-        <main className="relative flex flex-col items-center justify-center gap-4 h-screen w-screen bg-zinc-50 text-black dark:bg-black dark:text-zinc-50">
+        <main className="relative flex h-screen w-screen flex-col items-center justify-center gap-4 bg-zinc-50 text-black dark:bg-black dark:text-zinc-50">
           {children}
 
-          <div className="flex items-center justify-center absolute bottom-8">
+          <div className="absolute bottom-8 flex items-center justify-center">
             <p>
               Created by{' '}
               <a

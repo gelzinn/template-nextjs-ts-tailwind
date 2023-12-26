@@ -1,7 +1,7 @@
 export default function NotFound() {
   return (
     <>
-      <h1 className="text-6xl text-center">404</h1>
+      <h1 className="text-center text-6xl">404</h1>
 
       <p className="flex items-center justify-center">
         This page does not exist.

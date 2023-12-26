@@ -2,7 +2,7 @@ const Homepage = () => {
   return (
     <>
       <div className="flex flex-col items-center justify-center gap-4">
-        <h1 className="text-5xl font-bold text-center">
+        <h1 className="text-center text-5xl font-bold">
           Welcome to Next.js 13 Template!
         </h1>
         <p>
