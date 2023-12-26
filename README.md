@@ -96,19 +96,15 @@ Other resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)!
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+---
+
 <div align="center">
 
----
-
 **<p style="text-align: center;">Template created by [gelzin](https://github.com/gelzinn) with ❤️ for developers.</p>**
-
----
-
-You can find me here:
 
 <div
 style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;"
