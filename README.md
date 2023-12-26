@@ -64,11 +64,11 @@ Basic commands:
 - `dev` - start development server
 - `build` - build your project
 - `start` - start production server
+- `preview` - start preview server
 
 Other commands:
 
 - `lint` - lint your code
-- `format` - format your code
 
 > You can create your own commands in `package.json` file. Just add your command in `scripts` section.
 
