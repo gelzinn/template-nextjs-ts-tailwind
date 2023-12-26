@@ -11,7 +11,24 @@ export default function RootLayout({ children }: any) {
       </head>
 
       <body>
-        {children}
+        <main className="relative flex flex-col items-center justify-center gap-4 h-screen w-screen bg-zinc-50 text-black dark:bg-black dark:text-zinc-50">
+          {children}
+
+          <div className="flex items-center justify-center absolute bottom-8">
+            <p>
+              Created by{' '}
+              <a
+                href="https://gelzin.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-800"
+              >
+                gelzin
+              </a>
+              .
+            </p>
+          </div>
+        </main>
       </body>
     </html>
   );
