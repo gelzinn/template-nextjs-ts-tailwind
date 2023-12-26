@@ -86,13 +86,13 @@ Hosting
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-<center>
+---
+
+**<p style="text-align: center;">Template created by [gelzin](https://github.com/gelzinn) with ❤️ for developers.</p>**
 
 ---
 
-**Template created by [gelzin](https://github.com/gelzinn) with ❤️ for developers.**
-
----
+<div align="center">
 
 You can find me here:
 
@@ -104,4 +104,4 @@ style="display: flex; align-items: center; justify-content: center; flex-wrap: w
 
 </div>
 
-</center>
+</div>
