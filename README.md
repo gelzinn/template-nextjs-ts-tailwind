@@ -131,7 +131,7 @@ You can find me here:
 style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;"
 >
 
-[GitHub](https://github.com/gelzinn) ﾠ | ﾠ [𝕏/Twitter](https://twitter.com/gelzinn_) ﾠ | ﾠ [Instagram](https://instagram.com/gelzinn)
+[GitHub](https://github.com/gelzinn) ﾠ | ﾠ [𝕏/Twitter](https://twitter.com/gelzinn_) ﾠ | ﾠ [Instagram](https://instagram.com/gelzinn_)
 
 </div>
 
